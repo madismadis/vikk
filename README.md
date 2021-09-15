@@ -19,8 +19,12 @@ OPERATING INSTRUCTIONS
 
 * run the task
 
-'node [file_name.js]'
-'for example node task1.js'
+'''
+node [file_name.js]
+
+'''
+
+for example: ''' node task1.js'''
 
 
 
