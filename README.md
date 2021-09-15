@@ -1,4 +1,4 @@
-CONTENTS OF THIS FILE
+CONTENTS OF THE PROJECT
 ---------------------
 
  * Description
@@ -19,9 +19,9 @@ OPERATING INSTRUCTIONS
 
 * run the task
 
-'''
-node [file_name.js]
-'''
+'node [file_name.js]'
+'for example node task1.js'
+
 
 
 CONTENT OF FILES
