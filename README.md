@@ -24,7 +24,10 @@ node [file_name.js]
 
 ````
 
-for example: ```` node task1.js ```
+for example: 
+````
+node task1.js
+```
 
 
 
