@@ -22,17 +22,18 @@ OPERATING INSTRUCTIONS
 ```
 node [file_name.js]
 
-````
+```
 
 for example: 
-````
+
+```
 node task1.js
+
 ```
 
 
-
 CONTENT OF FILES
-------------
+----------------
 
 Files contain different exercises and home tasks:
 
@@ -47,7 +48,8 @@ AUTHORS
  * Madis Pihlasalu, madis.pihlasalu@vikk.ee
 
 
- VERSION HISTORY
+ 
+VERSION HISTORY
 ----------------
 
 * Initial version, created September 15, 2021
