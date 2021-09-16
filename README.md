@@ -37,9 +37,10 @@ CONTENT OF FILES
 
 Files contain different exercises and home tasks:
 
-* task1 - operating with variables: int, string, const, let
-* task2 (2.1) - operating with variables: int, string, const, let, array, object, DATE, get functions
-* task3 - Hello world, functions, if, if else.
+* task1.js - operating with variables: int, string, const, let
+* task2.js - operating with variables: int, string, const, let, array, object, DATE, get functions
+* task3.js - Hello (name) greet function, if, if else.
+* task4.js - Array, if loop function
 
 
 AUTHORS
@@ -52,6 +53,7 @@ AUTHORS
 VERSION HISTORY
 ----------------
 
-* Initial version, created September 15, 2021
+* September 15, 2021 - Initial version
+* September 16, 2021 - updated with task4.js
 
 
