@@ -40,9 +40,11 @@ Files contain different exercises and home tasks:
 * task1.js - operating with variables: int, string, const, let
 * task2.js - operating with variables: int, string, const, let, array, object, DATE, get functions
 * task3.js - Hello (name) greet function, if, if else.
-* task4.js - Array, if loop function
-* task4.1.js - Array, if loop function, join function
-* task5.js - check if string is empty, capitilize first letter
+* task4.js - Array, if loop.
+* task4.1.js - Array, if loop, join.
+* task5.js - Function to check if string is empty, capitilize first letter
+* task6.js - If, if else, for loop. Function to print hello n times.
+* task7.js - Function to generate array with random values, function to count even numbers (as true values).
 
 
 AUTHORS
@@ -55,8 +57,9 @@ AUTHORS
 VERSION HISTORY
 ----------------
 
-* September 15, 2021 - Initial version
-* September 16, 2021 - updated with task4.js
-* September 18, 2021 - updated with task4.1.js and task5.js
+* September 15, 2021 - Date of creation (initial versio)
+* September 16, 2021 - updated with task4.js file information
+* September 18, 2021 - updated with task4.1.js and task5.js file information
+* September 27, 2021 - updated with task 6.js and task7.js file information
 
 
