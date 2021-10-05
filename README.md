@@ -45,6 +45,7 @@ Files contain different exercises and home tasks:
 * task5.js - Function to check if string is empty, capitilize first letter
 * task6.js - If, if else, for loop. Function to print hello n times.
 * task7.js - Function to generate array with random values, function to count even numbers (as true values).
+* task8.js - functions, map, filter, reduce, join, json array.
 
 
 AUTHORS
@@ -57,9 +58,9 @@ AUTHORS
 VERSION HISTORY
 ----------------
 
-* September 15, 2021 - Date of creation (initial versio)
+* September 15, 2021 - Date of creation (initial version)
 * September 16, 2021 - updated with task4.js file information
 * September 18, 2021 - updated with task4.1.js and task5.js file information
-* September 27, 2021 - updated with task 6.js and task7.js file information
-
+* September 27, 2021 - updated with task6.js and task7.js file information
+* October 5, 2021    - updated with task8.js file information
 
